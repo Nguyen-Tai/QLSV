@@ -1,0 +1,162 @@
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\QLSV.exe
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\QLSV.pdb
+C:\Users\trann\source\repos\QLSV\QLSV\obj\Debug\QLSV.csprojAssemblyReference.cache
+C:\Users\trann\source\repos\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\trann\source\repos\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\Users\trann\source\repos\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\trann\source\repos\QLSV\QLSV\obj\Debug\QLSV.exe
+C:\Users\trann\source\repos\QLSV\QLSV\obj\Debug\QLSV.pdb
+C:\Users\trann\source\repos\QLSV\QLSV\obj\Debug\QLSV.frmLogin.resources
+C:\Users\trann\source\repos\QLSV\QLSV\obj\Debug\QLSV.frmAdmin.resources
+C:\Users\trann\source\repos\QLSV\QLSV\obj\Debug\QLSV.frmDoimatkhau.resources
+C:\Users\trann\source\repos\QLSV\QLSV\obj\Debug\QLSV.frmQuanLiNguoiDung.resources
+C:\Users\trann\source\repos\QLSV\QLSV\obj\Debug\QLSV.frmKhoa.resources
+C:\Users\trann\source\repos\QLSV\QLSV\obj\Debug\QLSV.frmLop.resources
+C:\Users\trann\source\repos\QLSV\QLSV\obj\Debug\QLSV.frmMonHoc.resources
+C:\Users\trann\source\repos\QLSV\QLSV\obj\Debug\QLSV.frmQLSV.resources
+C:\Users\trann\source\repos\QLSV\QLSV\obj\Debug\QLSV.frmQLĐiểm.resources
+C:\Users\trann\source\repos\QLSV\QLSV\obj\Debug\RdlCompile.cache
+C:\Users\trann\source\repos\QLSV\QLSV\obj\Debug\RdlCompile.compiled
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\EnvDTE.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\stdole.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\Microsoft.MSXML.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trann\source\repos\QLSV\QLSV\obj\Debug\QLSV.csproj.CopyComplete
+C:\Users\trann\source\repos\QLSV\QLSV\obj\Debug\QLSV.fReportDiem.resources
+C:\Users\trann\source\repos\QLSV\QLSV\obj\Debug\QLSV.Thongkehoctap.resources
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\QLSV.exe
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\QLSV.pdb
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\EnvDTE.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\stdole.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\Microsoft.MSXML.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\obj\Debug\QLSV.csprojAssemblyReference.cache
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\obj\Debug\QLSV.frmAdmin.resources
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\obj\Debug\QLSV.frmDoimatkhau.resources
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\obj\Debug\QLSV.frmKhoa.resources
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\obj\Debug\QLSV.frmLogin.resources
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\obj\Debug\QLSV.frmLop.resources
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\obj\Debug\QLSV.frmMonHoc.resources
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\obj\Debug\QLSV.frmQLSV.resources
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\obj\Debug\QLSV.frmQuanLiNguoiDung.resources
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\obj\Debug\QLSV.fReportDiem.resources
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\obj\Debug\QLSV.Thongkehoctap.resources
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\obj\Debug\RdlCompile.cache
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\obj\Debug\RdlCompile.compiled
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\obj\Debug\QLSV.csproj.CopyComplete
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\obj\Debug\QLSV.exe
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\obj\Debug\QLSV.pdb
+C:\Users\trann\Desktop\QLSV_17110217_17110174_17110218\Source Code\QLSV_ADO\QLSV\obj\Debug\QLSV.frmQLDiem.resources
